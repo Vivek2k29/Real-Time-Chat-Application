@@ -24,9 +24,4 @@ A simple real-time chat application using WebSockets, STOMP.js, and SockJS for b
 - Ensure you have a **Java** environment set up (Java 8 or above).
 - Ensure **Maven** or **Gradle** is installed for building the Spring Boot application.
 
-### Step-by-step setup:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
-   cd real-time-chat-app
